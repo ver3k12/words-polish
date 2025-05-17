@@ -43,13 +43,6 @@ dopierdalający
 dopierdalajacy
 dopierdolić
 dopierdolic
-dupa
-dupie
-dupą
-dupcia
-dupeczka
-dupy
-dupe
 huj
 hujek
 hujnia
@@ -124,7 +117,6 @@ kurwy
 kurwach
 kurwiarz
 kurwiący
-kurwica
 kurwić
 kurwic
 kurwidołek
@@ -199,3 +191,5 @@ odpierdolił
 odpierdolil
 odpierdolila
 zdechnij
+cwel
+fuck

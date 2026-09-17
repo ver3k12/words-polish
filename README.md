@@ -12,5 +12,5 @@ Zbiór polskich słów niedozwolonych (`words.txt`), przygotowany z myślą o fi
 ---
 🌐 **Odwiedź moje projekty:** 
 - [pvpblaze.net](https://pvpblaze.net/)
-- [cmclient / cmpack]([https://cm-pack.pl/pl)
+- [cmclient/cmpack](https://cm-pack.pl/pl)
 - [spacehost](https://spacehost.ovh/)
